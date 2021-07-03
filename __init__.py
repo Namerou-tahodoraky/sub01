@@ -1,3 +1,2 @@
-from .sub01 import print_status
+from .sub01 import *
 
-__all___ = [ print_status, ]
